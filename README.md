@@ -1,10 +1,11 @@
 # MSK DRL Demo
 
+
+This repository showcases simulation / model outputs: render snapshots, a muscle-state heatmap, and a state video.
+
 ## Framework
 
 ![Framework overview](./framework.png)
-
-This repository showcases simulation / model outputs: render snapshots, a muscle-state heatmap, and a state video.
 
 ## Model output
 
