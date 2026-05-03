@@ -1,33 +1,33 @@
 # MyoSuite Demo
 
-本仓库用于展示仿真 / 模型相关的输出结果：模型渲染图、肌肉状态热力图与状态视频。
+This repository showcases simulation / model outputs: render snapshots, a muscle-state heatmap, and a state video.
 
-## 模型输出
+## Model output
 
-![模型输出](./model%20output.png)
+![Model output](./model%20output.png)
 
-## 肌肉状态热力图（右侧）
+## Muscle state heatmap (right)
 
-![肌肉状态热力图](./muscle_states_heatmap_right.png)
+![Muscle state heatmap](./muscle_states_heatmap_right.png)
 
-## 模型状态视频
+## Model state video
 
-在 GitHub 网页上可直接点击下列链接播放或下载：
+On GitHub, open or download the file from this link:
 
 [model_state.mov](./model_state.mov)
 
-若仓库在 GitHub 上且浏览器支持，也可尝试内嵌播放：
+If your browser supports it, you can also try inline playback:
 
 <video src="./model_state.mov" controls width="100%" style="max-width: 720px;"></video>
 
 ---
 
-## 仓库文件说明
+## Files in this repo
 
-| 文件 | 说明 |
-|------|------|
-| `model output.png` | 模型可视化输出 |
-| `muscle_states_heatmap_right.png` | 右侧肌肉状态热力图 |
-| `model_state.mov` | 模型状态录屏 / 动画 |
+| File | Description |
+|------|-------------|
+| `model output.png` | Model visualization snapshot |
+| `muscle_states_heatmap_right.png` | Right-side muscle state heatmap |
+| `model_state.mov` | Screen recording / animation of model state |
 
-将本目录推送到 GitHub 后，上述图片会在 README 中自动显示；视频以链接打开最稳妥。
+After you push this folder to GitHub, the images render automatically in the README; opening the video via the link is the most reliable option.
