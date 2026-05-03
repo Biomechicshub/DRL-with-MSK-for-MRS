@@ -1,5 +1,9 @@
 # MSK DRL Demo
 
+## Framework
+
+![Framework overview](./framework.png)
+
 This repository showcases simulation / model outputs: render snapshots, a muscle-state heatmap, and a state video.
 
 ## Model output
@@ -22,6 +26,7 @@ README cannot embed `.mov` players; **GIF loops automatically** on the repo page
 
 | File | Description |
 |------|-------------|
+| `framework.png` | Overall framework / pipeline overview |
 | `model output.png` | Model visualization snapshot |
 | `muscle_states_heatmap_right.png` | Right-side muscle state heatmap |
 | `model_state.mov` | Original screen recording (full quality) |
