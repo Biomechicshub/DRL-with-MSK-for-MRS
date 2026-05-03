@@ -30,6 +30,5 @@ README cannot embed `.mov` players; **GIF loops automatically** on the repo page
 | `framework.png` | Overall framework / pipeline overview |
 | `model output.png` | Model visualization snapshot |
 | `muscle_states_heatmap_right.png` | Right-side muscle state heatmap |
-| `model_state.mov` | Original screen recording (full quality) |
 | `model_state.gif` | Same clip as GIF for README autoplay loop |
 | `model_state_preview.png` | Still frame (optional thumbnail) |
