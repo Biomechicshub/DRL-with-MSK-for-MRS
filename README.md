@@ -5,7 +5,7 @@ This repository showcases simulation / model outputs: render snapshots, a muscle
 
 ## Framework
 
-![Framework overview](./framework.png)
+![Framework overview](./_framework.png)
 
 ## Model output
 
