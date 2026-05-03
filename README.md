@@ -12,7 +12,7 @@ This repository showcases simulation / model outputs: render snapshots, a muscle
 
 ## Model state video
 
-README cannot embed `.mov` players; **GIF loops automatically** on the repo page. Full-quality clip: [model_state.mov](./model_state.mov).
+README cannot embed `.mov` players; **GIF loops automatically** on the repo page.
 
 ![Model state animation](./model_state.gif)
 
